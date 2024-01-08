@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 </div>
 <br/> 
-![tjtmddk720's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjtmddk720&show_icons=true)
+![tjtmddk720's GitHub status](https://github-readme-stats.vercel.app/api?username=tjtmddk720&show_icons=true)
