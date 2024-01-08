@@ -10,5 +10,4 @@
 </div>
 <br/>
 
-![tjtmddk720's github stats](https://github-readme-stats.vercel.app/api?username=tjtmddk720&show_icons=true)
-
+![tjtmddk720's github stats](https://github-readme-stats.vercel.app/api?username=tjtmddk720&show_icons=true&align=center)
